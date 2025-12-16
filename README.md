@@ -55,4 +55,30 @@ Le projet intègre également un **système de détection d’objets** afin d’
 ---
 
 ## 🛠️ Technologies utilisées
-- **LabVIEW** (int
+- **LabVIEW** (interface graphique et communication)
+- **TCP/IP** (communication réseau)
+- **Python** (IA, object detection, vision)
+- **OpenCV / YOLO** (détection d’objets)
+- **Intelligence Artificielle & Computer Vision**
+
+---
+
+## 🚀 Objectifs du projet
+- Créer une interface intuitive et robuste
+- Permettre un contrôle flexible du robot
+- Intégrer des solutions modernes basées sur l’IA
+- Appliquer le projet dans un contexte académique et pratique
+
+---
+
+---
+
+## 👩‍💻 Auteur
+Projet réalisé par ben houcine eya  
+Dans le cadre d’un projet académique 
+
+---
+
+## 📜 Licence
+Ce projet est destiné à un usage **éducatif et expérimental**.
+
